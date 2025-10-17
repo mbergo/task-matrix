@@ -1,0 +1,7 @@
+{
+  "name": "Momentum: AI Task Matrix",
+  "description": "An AI-enhanced task management application that combines the Eisenhower Matrix with Google's Gemini API for advanced voice-enabled note-taking and task refinement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
